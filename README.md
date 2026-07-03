@@ -34,4 +34,5 @@ End-to-End-OCR-Pipeline/
 ├── EasyOCR (1).ipynb        # Implementation and benchmarking using EasyOCR
 ├── Pytesseract.ipynb        # Tesseract pipeline with custom PSM/OEM configs
 ├── image_fundamentals.ipynb # Image preprocessing (grayscale, morphological ops, etc.)
+├── requirements.txt         # Project dependencies
 └── README.md                # Project documentation
