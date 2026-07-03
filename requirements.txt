@@ -1,0 +1,17 @@
+# Image Processing
+opencv-python>=4.8.0
+numpy>=1.24.0
+Pillow>=10.0.0
+
+# OCR Engines
+pytesseract>=0.3.10
+easyocr>=1.7.0
+torch>=2.0.0
+
+# Evaluation
+jiwer>=3.0.0
+
+# Data & Notebook support
+pandas>=2.0.0
+matplotlib>=3.7.0
+ipykernel
